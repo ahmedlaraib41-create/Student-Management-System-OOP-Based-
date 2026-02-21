@@ -1,0 +1,29 @@
+Example Run
+
+Run the program in **Jupyter Notebook** (`.ipynb`) or as a `.py` file:
+
+
+===== Student Management System =====
+1 Add Student
+2 View Students
+3 Search Student
+4 Update Student
+5 Delete Student
+6 Exit
+Enter choice: 1
+Enter ID: 101
+Enter Name: Alice
+Enter Age: 20
+Enter Marks: 92
+Student added successfully
+
+
+Viewing the student:
+
+ID: 101
+Name: Alice
+Age: 20
+Marks: 92
+Grade: A
+
+Searching, updating, or deleting students works similarly using the menu options.
